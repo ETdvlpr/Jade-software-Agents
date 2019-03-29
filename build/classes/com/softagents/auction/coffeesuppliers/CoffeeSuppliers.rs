@@ -1,4 +1,0 @@
-coffeesuppliers.CoffeeSuppliers$1
-coffeesuppliers.CoffeeSuppliers$ReciveMesssages
-coffeesuppliers.CoffeeSuppliers$2
-coffeesuppliers.CoffeeSuppliers

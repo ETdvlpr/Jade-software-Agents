@@ -1,5 +1,0 @@
-coffeesuppliers.SuppliersGUI$4
-coffeesuppliers.SuppliersGUI$3
-coffeesuppliers.SuppliersGUI$2
-coffeesuppliers.SuppliersGUI
-coffeesuppliers.SuppliersGUI$1
