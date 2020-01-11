@@ -29,7 +29,7 @@ Features included by auctioneer
 a) Capable of running multiple bids at the same time
 b) The increment grows larger as bidding goes on longer
 
-![Flow chart for auctioneer logic](flow%20chart%20for%20auctioneer.png)
+![Flow chart for auctioneer logic](img/flow%20chart%20for%20auctioneer.png)
 
 ### Buyer
 By definition multiple instances of buyers are supported. They have maximum bid capacities for bidding on the individual items. The functionality of buyers commences as follows:
@@ -43,15 +43,15 @@ a) Ability to bid on multiple items from multiple auctions simultaneously
 b) Maintain only one standing bid for an item
 c) Update user interface to keep user informed
 
-![Flow chart for buyer](flow%20chart%20for%20buyer.png)
+![Flow chart for buyer](img/flow%20chart%20for%20buyer.png)
 
 ### Seller
 The seller is an agent providing a conduit for the user to put up coffee items for sale. It communicates with auctioneers on the users behalf and updates its UI to inform the user of the current state of affairs.It sequentially sends sell information to all auctioneers till coffee is sold, or it runs out of auctioneers.
 
-![Flow chart of Seller](flow%20chart%20for%20seller.png)
+![Flow chart of Seller](img/flow%20chart%20for%20seller.png)
 
 ## Screen shot
-![Screen shot of a bid in action](screen%20shot%20of%20system%20in%20action.jpg)
+![Screen shot of a bid in action](img/screen%20shot%20of%20system%20in%20action.jpg)
 
 ##### TODO
 * Security
